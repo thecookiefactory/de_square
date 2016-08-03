@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7152"
-	"mapversion" "12"
+	"mapversion" "13"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "12"
+	"mapversion" "13"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -6000,7 +6000,7 @@ entity
 	"angles" "-0 95.5 0"
 	"file" "reg_tram.vmf"
 	"fixup_style" "0"
-	"origin" "869.824 32.9007 1"
+	"origin" "565.824 48.9007 1"
 	editor
 	{
 		"color" "220 30 220"
@@ -6016,7 +6016,7 @@ entity
 	"angles" "-0 95.5 0"
 	"file" "reg_tram.vmf"
 	"fixup_style" "0"
-	"origin" "592 247.259 1"
+	"origin" "288 263.259 1"
 	editor
 	{
 		"color" "220 30 220"
@@ -6032,7 +6032,7 @@ entity
 	"angles" "-0 95.5 0"
 	"file" "reg_tram.vmf"
 	"fixup_style" "0"
-	"origin" "1181.27 304 1"
+	"origin" "877.27 320 1"
 	editor
 	{
 		"color" "220 30 220"
@@ -6048,7 +6048,7 @@ entity
 	"angles" "-0 95.5 0"
 	"file" "reg_tram.vmf"
 	"fixup_style" "0"
-	"origin" "1459.1 89.6413 1"
+	"origin" "1155.1 105.641 1"
 	editor
 	{
 		"color" "220 30 220"
@@ -6061,9 +6061,9 @@ entity
 {
 	"id" "22870"
 	"classname" "func_instance"
-	"angles" "-0 17 0"
+	"angles" "-0 18.7394 0"
 	"file" "bkk_info_station.vmf"
-	"origin" "1520 -1008 0"
+	"origin" "1312 -848 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -6108,9 +6108,9 @@ entity
 {
 	"id" "23186"
 	"classname" "func_instance"
-	"angles" "-0 -56 0"
+	"angles" "-0 -45.5 0"
 	"file" "comb_tram.vmf"
-	"origin" "1184 -2112 0"
+	"origin" "1114.19 -1962.35 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -6123,9 +6123,9 @@ entity
 {
 	"id" "23207"
 	"classname" "func_instance"
-	"angles" "-0 -56 0"
+	"angles" "-0 -45.5 0"
 	"file" "comb_tram.vmf"
-	"origin" "1328 -2320 0"
+	"origin" "1293.69 -2140.62 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -6138,9 +6138,9 @@ entity
 {
 	"id" "23210"
 	"classname" "func_instance"
-	"angles" "-0 -58.5 0"
+	"angles" "-0 -48 0"
 	"file" "comb_tram.vmf"
-	"origin" "3024 -1008 0"
+	"origin" "2722.19 -541.522 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -6153,9 +6153,9 @@ entity
 {
 	"id" "23213"
 	"classname" "func_instance"
-	"angles" "-0 -58 0"
+	"angles" "-0 -47.5 0"
 	"file" "comb_tram.vmf"
-	"origin" "3488 -1008 0"
+	"origin" "3178.42 -456.965 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -6168,10 +6168,10 @@ entity
 {
 	"id" "20781"
 	"classname" "func_instance"
-	"angles" "-0 66 0"
+	"angles" "-0 85 0"
 	"file" "reg_tram.vmf"
 	"fixup_style" "0"
-	"origin" "-256 496 1"
+	"origin" "-432 320 1"
 	editor
 	{
 		"color" "220 30 220"
@@ -6184,10 +6184,10 @@ entity
 {
 	"id" "20809"
 	"classname" "func_instance"
-	"angles" "-0 28.5 0"
+	"angles" "-0 23.5 0"
 	"file" "reg_tram.vmf"
 	"fixup_style" "0"
-	"origin" "-560 1008 1"
+	"origin" "-672 848 1"
 	editor
 	{
 		"color" "220 30 220"
@@ -6200,9 +6200,9 @@ entity
 {
 	"id" "21236"
 	"classname" "func_instance"
-	"angles" "-0 -8.5 0"
+	"angles" "-0 -11.5 0"
 	"file" "subway_entrance.vmf"
-	"origin" "96 -896 0"
+	"origin" "32 -1040 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -6218,7 +6218,7 @@ entity
 	"angles" "-0 162.5 0"
 	"file" "reg_tram.vmf"
 	"fixup_style" "0"
-	"origin" "-688 -64 1"
+	"origin" "-768 -32 1"
 	editor
 	{
 		"color" "220 30 220"
@@ -6234,7 +6234,7 @@ entity
 	"angles" "-0 162.5 0"
 	"file" "reg_tram.vmf"
 	"fixup_style" "0"
-	"origin" "-858.812 -634.424 1"
+	"origin" "-938.812 -602.424 1"
 	editor
 	{
 		"color" "220 30 220"
